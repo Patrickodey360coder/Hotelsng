@@ -1,4 +1,4 @@
-# Hotelsng
-internship5 task
+# # Hotelsng
+ Internship_5 task
 
-*This is a little website project in partial fufilment to hotelsng internship requirement.
+* This is a little website project in partial fulfilment to hotelsng internship requirement.
